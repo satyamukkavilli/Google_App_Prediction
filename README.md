@@ -1,2 +1,3 @@
-# This is a Google App Rating Prediction project using python programming language.
-# This is the simplilearn Project.
+# This is a Google App Rating Prediction project
+I used python programming language to analyze the data.
+This is the simplilearn Project.
